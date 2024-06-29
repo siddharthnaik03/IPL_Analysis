@@ -2,7 +2,7 @@
 
 **This comprehensive Power BI analysis focuses on the Indian Premier League (IPL) seasons from 2008 to 2022, providing detailed insights into various aspects of the tournament.**
 
-Project Workflow
+## Project Workflow
 1. ### Requirement Gathering
 	
 2.	### Data Import
