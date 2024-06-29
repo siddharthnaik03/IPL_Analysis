@@ -5,7 +5,7 @@
 Project Workflow
 1. ### Requirement Gathering
 	
-2.	## Data Import
+2.	### Data Import
      Import Data into MS SQL Server
   	 Import Data into PostgreSQL DB
 
